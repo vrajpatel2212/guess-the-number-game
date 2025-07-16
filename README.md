@@ -23,6 +23,7 @@ This is a beginner-friendly Python project where the player has 3 chances to gue
 
 ## 🔗 Connect With Me:
 📧 Email: vrajdpatel2007]
+
 👨‍💻GitHub:(https://github.com/vrajpatel2212)
 
 ---
